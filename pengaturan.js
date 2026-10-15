@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Jhony Motret",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyBl_1MQanBcMdfJmeiz3r6jLO2oJnMATtE",
+    googleApiKey: "AIzaSyDC4bsr29wsoKoDgKKaE_MdoQ0DEq3hGMc",
     whatsappAdmin: "6285348366500" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
